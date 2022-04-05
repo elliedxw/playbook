@@ -1,11 +1,10 @@
 ---
-title: "Guide to Wellbeing at dxw "
+title: "Wellbeing at dxw "
 ---
-## Wellbeing at dxw
 
 The wellbeing of our team is hugely important - if you have any physical or mental wellbeing concerns, this guide will give you a path to support.
 
-### Mental and Physical Health Support
+## Mental and physical health support
 
 dxw offers the following to support your health and wellbeing - we want to ensure that you are well set up and looked after during your employment:
 
@@ -19,21 +18,21 @@ dxw offers the following to support your health and wellbeing - we want to ensur
 * Support through the [Access to work](https://www.gov.uk/access-to-work) grant scheme for those with a disability or eligible health condition.
 * [Flexible working options](https://playbook.dxw.com/#flexible-working) such as change of working pattern, hours or role/project, access to local hot desking and maintaining remote working, to support changing needs.
 
-### Mental and Physical Health Support at a time of challenge or crisis
+## Mental and physical health support at a time of challenge or crisis
 
 Sometimes our lives both inside and outside of work can be challenging, and many of us will experience poor mental or physical health for any number of reasons.
 
 This can impact our lives, and sometimes our ability to work as normal. 
 
-### Who to speak to 
+## Who to speak to 
 
-#### Line manager 
+### Line manager 
 
 Line managers are your first point of contact for any issues you may be having at work. They are responsible for carrying out dxw’s duty of care, and you should request a 1:1 with your line manager if you need additional support. 
 
 They can listen, support and offer reasonable adjustments as detailed above. They can help review workloads, working patterns, projects, roles and responsibilities and help with resolving anything within the workplace that might be causing concern. They can liaise with delivery leads, heads of and directors where necessary, and take some of the burden from you.
 
-#### Mental Health First Aiders 
+### Mental health first aiders 
 
 If you are experiencing a mental health crisis or think that someone else is, we have a team of trained mental health first aiders who are able to provide initial support. A mental health first aider may identify an existing or imminent crisis and is able to listen and communicate non-judgementally, give initial support and then signpost information or appropriate professional help. 
 
@@ -41,11 +40,11 @@ First aiders are also a safe place to turn to if you are experiencing any issues
 
 Mental Health First Aiders are identified in the company Directory in Breathe where you can find a direct phone number for them.
 
-#### HR 
+### HR 
 
 The HR team is a safe place to turn if you need help with your mental health or general wellbeing at work. We can work with you to identify what additional support you might need.
 
-### Resources
+## Resources
 
 If you, or someone you know is in mental health crisis and needs medical help fast:
 
@@ -57,7 +56,7 @@ If it is not a medical emergency but you still need urgent help:
 * Ring 111 for professional health advice 24/7 and 365 days a year and guidance on where to access appropriate health services 
 * Make an appointment with your GP 
 
-#### Crisis & emotional support helplines
+### Crisis & emotional support helplines
 
 **Samaritans (UK)**
 
